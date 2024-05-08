@@ -33,7 +33,7 @@ $Purpose = "IntunePR"
 $Remediate = $true #Use for Detect if $false | Remedaite if $true
 $Compliance = "Compliant"
 
-### Grab Function Get-HPDockUpdateDetails and Paste Here: https://github.com/gwblok/garytown/edit/master/hardware/HP/Docks/Function_Get-HPDockUpdateDetails.ps1
+### Grab Function Get-HPDockUpdateDetails and Paste Here: https://github.com/vietdang82/PowerShellScripts/blob/main/MSIntune/PowerShell/MSIntune%20Scripts/HPUpdateDockRemediate.ps1
 
 ### Function Ends
 
