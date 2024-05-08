@@ -1,0 +1,1 @@
+Remove-Printer -Name "CP3O"
